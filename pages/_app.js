@@ -9,6 +9,8 @@ const GlobalStyles = createGlobalStyle`
   }
 `;
 
+
+
 export default function App({ Component, pageProps }) {
   return (
     <>
